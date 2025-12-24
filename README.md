@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -117,21 +116,22 @@ Paroles que tu sèmes au vent
 
 <!-- POEMA CENTRAL ÍNTEGRO -->
 <div class="center-poem">
-Lembra-te que morreremos  
+Lembra-te que morreremos, 
 Meu ódio-amor.  
-De carne e miséria  
-Esta casa breve de matéria  
+De carne e miséria,  
+Esta casa breve de matéria,  
 Corpo-campo de luta e de suor.  
 
-Lembra-te do anônimo da Terra  
-Que meditanto a sós com seus botões  
+Lembra-te do anônimo da Terra,  
+Que meditanto a sós com seus botões,  
 Gravou no relógio das quimeras:  
 "É mais tarde do que supões".  
 
 Por isso  
 Mata-me apenas em sonhos.  
-Podes dormir em fúria pela eternidade  
-Mas acordado, ama. Porque ao meu lado  
+Podes dormir em fúria pela eternidade, 
+Mas acordado, ama. 
+Porque ao meu lado  
 Tudo se faz tarde: amor, gozo, ventura.
 </div>
 
